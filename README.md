@@ -51,7 +51,7 @@
    npm install axios bootstrap
    ```
 
-2. **Add Bootstrap in `main.jsx`**:
+2. **Add Bootstrap in `app.jsx`**:
 
    ```javascript
    import "bootstrap/dist/css/bootstrap.min.css";
