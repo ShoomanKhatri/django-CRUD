@@ -1,5 +1,3 @@
----
-
 # 🚀 **Full CRUD App with React (Vite), Bootstrap, Django & PostgreSQL** ✨
 
 ### **Project Stack:**
