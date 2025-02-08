@@ -1,5 +1,3 @@
-Here's a **short and sweet README** for your **Full CRUD App** with **React (Vite), Bootstrap, Django, and PostgreSQL**:
-
 ---
 
 # 🚀 **Full CRUD App with React (Vite), Bootstrap, Django & PostgreSQL** ✨
@@ -79,5 +77,3 @@ Here's a **short and sweet README** for your **Full CRUD App** with **React (Vit
 🎨 **Enjoy Building!** Feel free to customize it and make it your own. 🚀
 
 ---
-
-This README simplifies the setup steps and gives you all the necessary commands!
