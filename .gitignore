@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Node modules
+node_modules/
+
+# .env file with sensitive data
+.env
+
+# PostgreSQL data directory (if using local dev PostgreSQL)
+pgdata/
